@@ -1,0 +1,1 @@
+The first homework was about the implementation of SARSA and Q-learning. The second homework was about DQN and DDQN. 
